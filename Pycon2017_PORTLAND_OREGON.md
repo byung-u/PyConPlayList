@@ -1,5 +1,6 @@
-* Keynote
+* PSF
   * [PSF Community Service Awards](https://www.youtube.com/watch?v=XD8kXx_Thkk)
+* Keynote
   * [Kelsey Hightower - Keynote - Pycon 2017](https://www.youtube.com/watch?v=u_iAXzy3xBA)
   * [Jake Vanderplas - Keynote - PyCon 2017](https://www.youtube.com/watch?v=ZyjCqQEUa8o)
   * [Katy Huff   Keynote   PyCon 2017](https://www.youtube.com/watch?v=kaGS4YXwciQ)
