@@ -9,3 +9,8 @@ A pycon youtube video list.
 Get youtube playlist by youtube-dl
 ----------------------------------
 `% youtube-dl -j --flat-playlist https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg`
+
+TODO
+----
+- [ ] Separate Speaker and Title
+- [ ] Link Speaker github address
