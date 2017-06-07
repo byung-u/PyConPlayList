@@ -1,6 +1,6 @@
 
-* [Final remarks and conference close  - Pycon 2017](https://www.youtube.com/watch?v=AjFfsOA7AQI)
-* [Kelsey Hightower - Keynote - Pycon 2017](https://www.youtube.com/watch?v=u_iAXzy3xBA)
+* [Final remarks and conference close](https://www.youtube.com/watch?v=AjFfsOA7AQI)
+* [Kelsey Hightower - Keynote](https://www.youtube.com/watch?v=u_iAXzy3xBA)
 * [Gothic Colors Using Python to understand color in nineteenth century literature   ](https://www.youtube.com/watch?v=3dDtACSYVx0)
 * [Benny Bauer   Python in The Serverless Era   ](https://www.youtube.com/watch?v=G17E4Muylis)
 * [Mary Nagle   Piecing it Together A beginner's guide to application configuration   ](https://www.youtube.com/watch?v=OaT0EN-02iY)
